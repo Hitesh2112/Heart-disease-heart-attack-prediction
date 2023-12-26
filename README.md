@@ -3,7 +3,7 @@
 # Heart-disease-heart-attack-prediction
 This Project is for prediction of possibility of having a heart disease.
 The dataset used is taken from kaggle
-[heart_disease_health_indicators_BRFSS2015.csv](https://github.com/Hitesh2112/Heart-disease-heart-attack-prediction/files/13773377/heart_disease_health_indicators_BRFSS2015.csv)
+
 
 ## Let's understand the working of the code
 
